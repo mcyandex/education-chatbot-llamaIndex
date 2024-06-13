@@ -2,6 +2,9 @@
 
 ![ScreenRecording2024-02-25at3 20 34PM-ezgif com-video-to-gif-converter(1)](https://github.com/benninghoven/fullyhacks-2024/assets/49360048/7b50352a-20e3-43bc-b21d-26c885904850)
 
+<img width="1377" alt="Screenshot 2024-02-25 at 3 18 56 PM" src="/assets/example.png">
+
+
 ## Inspiration 🚀
 
 The LED Chatbot project draws inspiration from the current climate of AI use in the classroom. Embracing the challenge of building a chatbot that utilizes only textbook information, we aimed to create a visually striking and innovative user experience by incorporating bright neon lights and colors into the design, due to the Hackathon theme.
@@ -36,7 +39,3 @@ We are looking into allowing user input textbooks which our current chatbot does
 - OpenAI API
 - Llama Index
 - Docker
-
-
-<img width="1377" alt="Screenshot 2024-02-25 at 3 18 56 PM" src="https://github.com/benninghoven/fullyhacks-2024/assets/49360048/9dd11f17-d339-4ce9-857d-28ed5ecf0a39">
-
