@@ -2,7 +2,7 @@
 
 ![ScreenRecording2024-02-25at3 20 34PM-ezgif com-video-to-gif-converter(1)](https://github.com/benninghoven/fullyhacks-2024/assets/49360048/7b50352a-20e3-43bc-b21d-26c885904850)
 
-<img width="1377" alt="Screenshot 2024-02-25 at 3 18 56 PM" src="/assets/example.png">
+<img width="1377" alt="Screenshot 2024-02-25 at 3 18 56 PM" src="/assets/exampleSS.png">
 
 
 ## Inspiration 🚀
