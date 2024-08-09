@@ -1,12 +1,5 @@
 # LED Chatbot Project 💬💡📚
 
-![ScreenRecording2024-02-25at3 20 34PM-ezgif com-video-to-gif-converter(1)](https://github.com/benninghoven/fullyhacks-2024/assets/49360048/7b50352a-20e3-43bc-b21d-26c885904850)
-
-## Example Use Case 💭
-
-<img width="1377" alt="Screenshot 2024-02-25 at 3 18 56 PM" src="/assets/ChatAI.png">
-
-
 ## Inspiration 🚀
 
 The LED Chatbot project draws inspiration from the current climate of AI use in the classroom. Embracing the challenge of building a chatbot that utilizes only textbook information, we aimed to create a visually striking and innovative user experience by incorporating bright neon lights and colors into the design, due to the Hackathon theme.
@@ -36,6 +29,7 @@ We delved into the world of chatbot development, React, Flask, Docker, and OpenA
 We are looking into allowing user input textbooks which our current chatbot does not allow. This is due to the longer computation time and resources it takes to extract data by user request. We would also want image recognition during the data extraction phase.
 
 ## Built With 🛠️
+
 - React
 - Flask
 - OpenAI API
